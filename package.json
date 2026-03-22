@@ -1,0 +1,12 @@
+{
+  "name": "dex-aggregator-lite",
+  "version": "1.0.0",
+  "description": "Multi-DEX Liquidity Aggregator",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "@uniswap/v2-periphery": "^1.1.0-beta.0",
+    "@uniswap/v3-periphery": "^1.4.4",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
